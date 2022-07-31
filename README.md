@@ -6,7 +6,7 @@ Lawyer / Programmer
 
 I'm a lawyer. Learning programming.
 
-* 🌍  I'm based in Taiwan
+* 🌍  Taiwanese
 
 ### Skills
 
