@@ -4,7 +4,7 @@ Hi 👋 My name is Hsieh-Te Hsieh
 Lawyer / Programmer 
 -------------------  
 
-I'm a lawyer. Learning to program. 
+I'm a lawyer. Learning programming.
 
 * 🌍  I'm based in Taiwan
 
