@@ -6,10 +6,29 @@ Lawyer / Programmer
 
 I’m a lawyer in Taiwan and a self-taught software developer.
 
-### Skills
-
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/arieshsieh0402" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+```javascript
+const arieshsieh = {
+  pronouns: 'he' | 'him',
+  website: 'https://arieshsieh0402.github.io/',
+  email: 'hthsieh.law@gmail.com',
+  languages: ['english', 'mandarin', 'taiwanese'],
+  favorites: ['beer', 'wine', 'video_game', 'photography', 'cycling'],
+  technologies: {
+    frontEnd: {
+      languages: ['html', 'css', 'javaScript'],
+      tools: ['react'],
+    },
+    backEnd: {
+      python: ['flask', 'pip', 'pandas', 'selenium', 'tkinter', 'turtle'],
+      javaScript: ['node', 'npm'],
+      api: ['openapi/swagger', 'jsonapi', 'restful', 'postman'],
+    },
+    devOps: {
+      shells: ['bash', 'zsh'],
+      tools: ['docker', 'git', 'github']
+    },
+    databases: ['postgres'],
+    tools: ['vim', 'vscode', 'git', 'slack', 'iTerm2'],
+  }
+};
+```
