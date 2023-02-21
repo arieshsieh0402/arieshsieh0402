@@ -14,6 +14,10 @@ const arieshsieh = {
   languages: ['english', 'mandarin', 'taiwanese'],
   favorites: ['beer', 'wine', 'video_game', 'photography', 'cycling'],
   technologies: {
+    mobile: {
+        languages: ['Swift'],
+        tools: ['Xcode'],
+      },
     frontEnd: {
       languages: ['html', 'css', 'javaScript'],
       tools: ['react'],
