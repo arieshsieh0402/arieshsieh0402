@@ -1,4 +1,4 @@
-Hsieh-Te Hsieh 
+Hsien-Te Hsieh 
 ===============================  
 
 Lawyer / Programmer 
