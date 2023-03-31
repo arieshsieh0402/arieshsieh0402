@@ -16,7 +16,7 @@ const arieshsieh = {
   technologies: {
     mobile: {
         languages: ['Swift'],
-        tools: ['Xcode'],
+        tools: ['iOS_SDK', 'Xcode'],
       },
     frontEnd: {
       languages: ['html', 'css', 'javaScript'],
