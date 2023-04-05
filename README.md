@@ -9,7 +9,11 @@ I’m a lawyer in Taiwan and a self-taught software developer.
 ```javascript
 const arieshsieh = {
   pronouns: 'he' | 'him',
-  website: 'https://arieshsieh0402.github.io/',
+  website: {
+      gitHubPages: 'https://arieshsieh0402.github.io/',
+      ithome: 'https://ithelp.ithome.com.tw/users/20158406/articles',
+      medium: 'https://medium.com/@arieshsieh0402'
+    },
   email: 'hthsieh.law@gmail.com',
   languages: ['english', 'mandarin', 'taiwanese'],
   favorites: ['beer', 'wine', 'video_game', 'photography', 'cycling'],
