@@ -19,7 +19,7 @@ const arieshsieh = {
   favorites: ['beer', 'wine', 'video_game', 'photography', 'cycling'],
   technologies: {
     mobile: {
-        languages: ['Swift'],
+        languages: ['Swift', 'Objective-C'],
         tools: ['iOS_SDK', 'Xcode'],
       },
     frontEnd: {
