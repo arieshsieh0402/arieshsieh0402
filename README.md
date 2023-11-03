@@ -13,31 +13,32 @@ const arieshsieh = {
       gitHubPages: 'https://arieshsieh0402.github.io/',
       ithome: 'https://ithelp.ithome.com.tw/users/20158406/articles',
       medium: 'https://medium.com/@arieshsieh0402'
-    },
+  },
   email: 'hthsieh.law@gmail.com',
-  languages: ['english', 'mandarin', 'taiwanese'],
-  favorites: ['beer', 'wine', 'video_game', 'photography', 'cycling'],
+  languages: ['English', 'Mandarin', 'Taiwanese'],
+  favorites: ['Beer', 'Wine', 'VideoGame', 'Photography'],
   technologies: {
     mobile: {
         languages: ['Swift', 'Objective-C'],
-        tools: ['iOS_SDK', 'Xcode'],
-      },
+        tools: ['iOS_SDK', 'Xcode']
+    },
     frontEnd: {
-      languages: ['html', 'css', 'javaScript'],
-      tools: ['react'],
+      languages: ['html', 'CSS', 'javaScript'],
+      tools: ['React']
     },
     backEnd: {
       languages: ['C#', 'Python', 'JavaScript'],
-      frameworks: ['.NET Framework', 'Flask', 'Node'],
-      tools: ['ASP.NET MVC', 'Postman'],
+      frameworks: ['.NET Framework', 'Flask', 'Node', 'ASP.NET MVC'],
       api: ['OpenAPI/Swagger', 'JSONAPI', 'RESTful'],
+      tools: ['Postman']
     },
     devOps: {
-      shells: ['bash', 'zsh'],
-      tools: ['docker', 'git', 'github']
+      versionControl: ['Git', 'GitHub'],
+      containers: ['Docker']
     },
-    databases: ['postgres'],
-    tools: ['vim', 'vscode', 'git', 'slack', 'iTerm2'],
+    databases: ['postgreSQL'],
+    editors: ['Vim', 'VSCode'],
+    terminal: ['iTerm2', 'Bash', 'Zsh']
   }
 };
 ```
