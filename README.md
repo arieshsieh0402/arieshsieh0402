@@ -27,9 +27,10 @@ const arieshsieh = {
       tools: ['react'],
     },
     backEnd: {
-      python: ['flask', 'pip', 'pandas', 'selenium', 'tkinter', 'turtle'],
-      javaScript: ['node', 'npm'],
-      api: ['openapi/swagger', 'jsonapi', 'restful', 'postman'],
+      languages: ['C#', 'Python', 'JavaScript'],
+      frameworks: ['.NET Framework', 'Flask', 'Node'],
+      tools: ['ASP.NET MVC', 'Postman'],
+      api: ['OpenAPI/Swagger', 'JSONAPI', 'RESTful'],
     },
     devOps: {
       shells: ['bash', 'zsh'],
