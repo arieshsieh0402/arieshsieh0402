@@ -43,5 +43,4 @@ const arieshsieh = {
 };
 ```
 
-# iOS App Portfolio
-- [AttorneyTech](https://apps.apple.com/tw/app/attorneytech/id6473744025)
+# [Portfolio](https://github.com/arieshsieh0402/Portfolio)
