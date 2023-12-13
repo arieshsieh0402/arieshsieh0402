@@ -36,8 +36,11 @@ const arieshsieh = {
       versionControl: ['Git', 'GitHub'],
       containers: ['Docker']
     },
-    databases: ['postgreSQL'],
-    editors: ['Vim', 'VSCode'],
+    databases:{
+      database: ['postgreSQL', 'Microsoft SQL Server'],
+      tools: ['pgAdmin', 'SSMS']
+    },
+    editors: ['Vim', 'VSCode', 'Visual Studio'],
     terminal: ['iTerm2', 'Bash', 'Zsh']
   }
 };
