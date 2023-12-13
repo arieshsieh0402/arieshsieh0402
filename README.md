@@ -1,10 +1,10 @@
 Hsien-Te Hsieh 
 ===============================  
 
-Programmer / Lawyer
+Software engineer / Lawyer
 -------------------  
 
-I’m a lawyer in Taiwan and a self-taught software developer.
+I am a software engineer in Taiwan with a legal background.
 
 ```javascript
 const arieshsieh = {
