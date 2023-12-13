@@ -1,7 +1,7 @@
 Hsien-Te Hsieh 
 ===============================  
 
-Lawyer / Programmer 
+Programmer / Lawyer
 -------------------  
 
 I’m a lawyer in Taiwan and a self-taught software developer.
