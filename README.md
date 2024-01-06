@@ -45,5 +45,8 @@ const arieshsieh = {
   }
 };
 ```
+------------------
 
-# [Portfolio](https://github.com/arieshsieh0402/Portfolio)
+# Here's my [portfolio](https://github.com/arieshsieh0402/Portfolio)
+
+
