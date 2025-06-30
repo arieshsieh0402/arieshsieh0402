@@ -11,8 +11,7 @@ const arieshsieh = {
   pronouns: 'he' | 'him',
   website: {
       gitHubPages: 'https://arieshsieh0402.github.io/',
-      ithome: 'https://ithelp.ithome.com.tw/users/20158406/articles',
-      medium: 'https://medium.com/@arieshsieh0402'
+      ithome: 'https://ithelp.ithome.com.tw/users/20158406/articles'
   },
   email: 'hthsieh.law@gmail.com',
   languages: ['English', 'Mandarin', 'Taiwanese'],
