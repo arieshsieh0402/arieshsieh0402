@@ -15,7 +15,7 @@ const arieshsieh = {
   },
   email: 'hthsieh.law@gmail.com',
   languages: ['English', 'Mandarin', 'Taiwanese'],
-  favorites: ['Beer', 'Wine', 'VideoGame', 'Photography'],
+  hobby: ['VideoGame', 'Photography', 'Motorcycling', 'Driving'],
   technologies: {
     mobile: {
         languages: ['Swift', 'Objective-C'],
@@ -23,24 +23,25 @@ const arieshsieh = {
     },
     frontEnd: {
       languages: ['html', 'CSS', 'javaScript'],
-      tools: ['React']
+      tools: ['React', 'Hugo']
     },
     backEnd: {
       languages: ['C#', 'Python', 'JavaScript'],
       frameworks: ['.NET Framework', 'Flask', 'Node', 'ASP.NET MVC'],
       api: ['OpenAPI/Swagger', 'JSONAPI', 'RESTful'],
-      tools: ['Postman']
+      tools: ['Postman', 'Kong']
     },
     devOps: {
       versionControl: ['Git', 'GitHub'],
-      containers: ['Docker']
+      containers: ['Docker'],
+      tools: ['Azure']
     },
     databases:{
       database: ['postgreSQL', 'Microsoft SQL Server'],
       tools: ['pgAdmin', 'SSMS']
     },
     editors: ['Vim', 'VSCode', 'Visual Studio'],
-    terminal: ['iTerm2', 'Bash', 'Zsh']
+    terminal: ['iTerm2', 'Bash', 'Zsh', 'Warp']
   }
 };
 ```
