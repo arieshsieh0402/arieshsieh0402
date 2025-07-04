@@ -10,7 +10,7 @@ I am a software engineer in Taiwan with a legal background.
 const arieshsieh = {
   pronouns: 'he' | 'him',
   website: {
-      gitHubPages: 'https://arieshsieh0402.github.io/',
+      gitHubPages: 'https://lawto.dev/',
       ithome: 'https://ithelp.ithome.com.tw/users/20158406/articles'
   },
   email: 'hthsieh.law@gmail.com',
