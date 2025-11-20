@@ -29,13 +29,14 @@ const arieshsieh = {
       languages: ['C#', 'Python', 'JavaScript'],
       frameworks: ['.NET Framework', 'Flask', 'Node', 'ASP.NET MVC'],
       api: ['OpenAPI/Swagger', 'JSONAPI', 'RESTful'],
-      tools: ['Postman', 'Kong']
+      tools: ['Postman']
     },
     devOps: {
       versionControl: ['Git', 'GitHub'],
       containers: ['Docker'],
-      tools: ['Azure']
+      tools: ['Azure', 'Splunk']
     },
+    apiManagement: ['Kong', 'APIM'],
     databases:{
       database: ['postgreSQL', 'Microsoft SQL Server'],
       tools: ['pgAdmin', 'SSMS']
